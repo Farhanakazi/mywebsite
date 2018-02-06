@@ -1,0 +1,115 @@
+.log{
+    text-align: center;
+    line-height: 50px;
+    color: dimgray;
+    font-size: 20px;
+   
+}
+.bann ul{
+    padding: 0;
+      margin: 0;
+    list-style: none;
+   
+}
+.bann ul li{
+   float: left;
+   width: 15%;
+   padding: 20px;
+ font-family: initial;
+   
+}
+.bann ul li a{
+    color: gray;
+}
+.bann ul li a:hover{
+    text-decoration: none;
+    color: #122b40;
+    
+  
+}
+
+.secondrow{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('responsive backgrnd.jpg');
+    height: 550px;
+   
+}
+.thirdrow{
+    height: 600px;
+    
+}
+.para{
+    height: 60px;width: 60px;border-radius: 100px;background: skyblue;margin-left: 80px;text-align: center;
+}
+
+.fourthrow{
+    height: 700px;
+    background: #269abc;
+}
+.pakage{
+    height: 400px;background: white;border-radius: 5px;margin-right: 20px;width: 260px;
+    
+        
+}
+.pakage:hover{
+    transition: 1s ease-in;
+    transform: scale(1.1);
+}
+.fifthrow{
+    height: 600px;
+}
+.team{
+    height: 400px;
+    width: 285px;
+}
+.fa_a{
+    height: 80px;
+    width: 80px;
+    border-radius: 100px;
+    background: #afd4d3;
+    
+    
+}
+
+.sixthrow{
+    height: 500px;
+    background: #269abc;
+}
+.client{
+    opacity: 0.6;
+}
+.client:hover{
+    opacity: 1;
+}
+.seventhrow{
+    height: 500px;
+}
+.send{
+    color: white;
+    background: #ce8483;
+}
+.send:hover{
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),#d9534f;
+    color: white;
+    
+}
+
+.eightrow{
+    background: #222;
+    height: 250px;
+    
+}
+.last{
+    color: white;
+
+    border: 1px solid white;
+    width: 50px;
+    height: 40px;
+    padding:5px;
+ 
+}
+.btnn{
+    
+}
+.btnn:hover{
+    background: white;
+}
